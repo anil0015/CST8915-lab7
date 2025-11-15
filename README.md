@@ -2,7 +2,7 @@
 ## Lab 7 
 
 ### YouTube Demo Video
-*(https://youtu.be/hshOkfJP7s0)*
+https://youtu.be/hshOkfJP7s0
 
 ## RabbitMQ Configuration Issues
 
